@@ -88,7 +88,19 @@
       "highlights": [
         "Assist students with math classes such as Algebra, Statistics, Calculus, etc.",
         "Attend math classes to help as an teaching assistant", 
-        "Monitor students during proctored quizes and exams at the Math Lab"
+        "Monitor students during proctored quizes and exams at the Math Lab",
+        "Answering phone calls for scheduled appointments or lab hours"
+      ]
+    }, 
+    {
+      "company": "Department of Transportation",
+      "position": "Office Assistant",
+      "website": "",
+      "startDate": "2015",
+      "endDate": "2015",
+      "summary": "Office Assistant for the Department of Transportation",
+      "highlights": [
+        "Photocopied numerous documents and filed them in an organized manner."
       ]
     }
   ],
@@ -121,15 +133,15 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "StarWish",
+      "date": "2016-2018",
+      "awarder": "Sheraton Maui Resort & Spa",
+      "summary": "Scholarships awarded to students with a family member employed at Sheraton Maui Resort & Spa."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
+      "title": "Dean's List",
+      "date": "2019-2020",
+      "awarder": "University of Hawaii Manoa",
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
