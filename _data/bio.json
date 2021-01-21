@@ -29,19 +29,19 @@
   },
   "interests": [
     {
-      "name": "Cyber Security",
+      "name": "cyber security",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "Game Development",
+      "name": "game development",
       "keywords": [
       ]
     },
     {
-      "name": "Web Development",
+      "name": "web development",
       "keywords": [
       ]
     }
