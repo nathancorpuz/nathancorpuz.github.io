@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/Screenshot_5.jpg
-title: Vacay
+title: ICS 111 Pokemon RPS Game
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-7
