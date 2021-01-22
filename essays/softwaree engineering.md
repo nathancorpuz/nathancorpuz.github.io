@@ -8,7 +8,7 @@ labels:
   - Javascript
 ---
 
-Prior to ICS 314, I had zero experience working with Javascript. After completing the freecodecamp introduction to Javascript, my interest in the Javascript programming language suddenly went up. 
+Prior to ICS 314, I had zero experience working with Javascript. After completing the freecodecamp introduction to Javascript, my interest in the Javascript programming language suddenly went up. My initial impression of JavaScipt is that it's really convinient to be able to write, test, and run code via a browser. Using websites such as jsfiddle.net, also allows for us to share code by sharing a URL. This saves a lot of hassle and time from having to upload a file in order to share it with others. 
 
 ## In the context of programming
 
