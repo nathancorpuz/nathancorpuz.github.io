@@ -1,22 +1,20 @@
 ---
 layout: essay
 type: essay
-title: Javascript is Life
+title: Software Engineering Starter Kit
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-21
 labels:
-  - Javascript
+  - Software Engineering
+  - Learning
 ---
 
-Prior to ICS 314, I had zero experience working with Javascript. After completing the freecodecamp introduction to Javascript, my interest in the Javascript programming language suddenly went up. I learned that one of the main uses of JavaScript is to develop web, mobile, and game apps. All of which I have an interest of pursuing a career out of. 
-
-## Initial Impression
-My initial impression of JavaScipt is that it's really convinient to be able to write, test, and run code via a browser. Using websites such as jsfiddle.net, also allows for us to share code by sharing a URL. This saves a lot of hassle and time from having to upload a file in order to share it with others. 
+Software Engineering is one of the most creative things you can do with computer programming. The main appeal I find in software Engineering is the quality of life changes it can provide to people. 
 
 
-## Cool Features
-Javascript provides an easier way of writing functions in comparison to Java. A lot of the code requires less keywords. It kind of feels like im just writing pseudocode compared to the other programming languages I experienced with. Using FreeCodeCamp, I was able to learn pretty much everything I learned about in Java but in the span of a few hours. In my opinion, picking up JavaScript is well worth it.
+## Interests
+My main interests in software engineering is to be able to learn and create game apps for mobile or web. I have a big interest in game development because of the freedom to make any kind of game I want which can only be limited by my imagination. I also have an interest in mobile app devopment as I have a few ideas of applications I wish existed on the app store for iPhone. 
 
 
-## Practicing JavaScript
-Currently practicing the WOD's for the course are pretty fun. Unfortunately, I messed up on today's WOD as I couldn't find what line of code I was missing. I was able to figure it out after running out of time so hopefully I will be better prepared for the next WOD. In addition, the solution professor Moore showed afterwards made me realize my code could have been improved by using helper functions. It is quite exciting learning new tricks for JavaScript.
+## Developing in the Future
+I hope to develop my proficiency with the JavaScript programming language. So far I am enjoying learning JavaScript mainly because the keywords for this language just makes the code alot easier to read anhd understand, especially when I am reading code written by someone else. The main experience I want to learn from this course is the process of making a software so that I can create my own apps in the future.
