@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-Software Engineering is one of the most creative things you can do with computer programming. The main appeal I find in software Engineering is the quality of life changes it can provide to people. 
+Software Engineering is one of the most creative things you can do with computer programming. The main appeal I find in software Engineering is the quality of life changes it can provide to people. Software such as phone applicaitons and computer applications is constantly being utilized by people as technology continues to grow. Software allows for quality of life changes such as
 
 
 ## Interests
