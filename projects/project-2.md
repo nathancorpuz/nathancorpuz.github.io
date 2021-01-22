@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Screenshot_5.jpg
 title: ICS 111 Pokemon RPS Game
-permalink: projects/vacay
+permalink: projects/pokemonrps
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-07
 labels:
@@ -13,12 +13,12 @@ labels:
 summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/Screenshot_6.jpg">
+<img class="ui medium right floated rounded image" src="../images/Screenshot_7.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+For my ICS 111 Final Project, I made a pokemon themed rock-paper-scissors game with a friend. The game behaves like rock-paper-scissors but uses the fire, water, and grass types instead. It is a two player game where both players selects the pokemon they want to send out and battles. Pokemon with the type advantage wins. The players keeps playing until one side loses their entire health bar. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+I learned alot from this project as it focused on core concepts of programming such as duplication of objects via classes. Collaborating with a friend also improved my communication skills as we were brain storming ideas for the project. In the end, we were both really satisfied with what we produced.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source code for this project will be made available soon.
+
+[Youtube Demo](https://www.youtube.com/watch?v=M7_n76qbwCU&feature=youtu.be)
