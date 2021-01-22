@@ -10,7 +10,7 @@ labels:
   - Java
   - Eclipse
   - Video Games
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: A Pokemon RPS game developed in ICS 111.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/Screenshot_7.jpg">
