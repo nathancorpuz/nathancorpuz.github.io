@@ -1,19 +1,19 @@
 ---
 layout: project
 type: project
-image: images/Screenshot_5.jpg
+image: images/Screenshot_8.jpg
 title: Bank Userinterface
-permalink: projects/pokemonrps
+permalink: projects/bankui
 # All dates must be YYYY-MM-DD format!
 date: 2020-10-31
 labels:
   - C Language
   - Unix
   - User Interface
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: A bank user interface program developed in ICS 212.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/Screenshot_7.jpg">
+<img class="ui medium right floated rounded image" src="../images/Screenshot_10.jpg">
 
 For my ICS 111 Final Project, I made a pokemon themed rock-paper-scissors game with a friend. The game behaves like rock-paper-scissors but uses the fire, water, and grass types instead. It is a two player game where both players selects the pokemon they want to send out and battles. Pokemon with the type advantage wins. The players keeps playing until one side loses their entire health bar. 
 
