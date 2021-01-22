@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Screenshot_2.jpg
+image: images/Screenshot_1.jpg
 title: Circus choice game
 permalink: projects/circusgame
 # All dates must be YYYY-MM-DD format!
@@ -14,10 +14,10 @@ summary: I developed a Circus choice game that asks user for inputs and the outc
 ---
 
 <div class="ui small rounded images">
+  <img class="ui image" src="../images/Screenshot_1">
   <img class="ui image" src="../images/Screenshot_2">
   <img class="ui image" src="../images/Screenshot_3">
   <img class="ui image" src="../images/Screenshot_4">
-  <img class="ui image" src="../images/Screenshot_5">
 </div>
 
 I created a game where the player goes to a circus and gets to interact with the different stalls. The player gets to choose between feeding a tiger or knocking down a pin with a rock. For each event, the player also gets to choose the total food/power used when playing which allows for multiple possibilities. This project was created using the application "Alice 3", which is a program that acted as an introduction to Java Programming. 
