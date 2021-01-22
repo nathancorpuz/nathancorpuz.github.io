@@ -2,13 +2,14 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+title: Bank Userinterface
+permalink: projects/bankui
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2020-10-31
 labels:
-  - Lisp
-  - GitHub
+  - C Language
+  - Unix
+  - User-Interface
 summary: A text adventure game I developed for ICS 313.
 ---
 
