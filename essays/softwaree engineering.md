@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Javascript is life
+title: Javascript is Life
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-21
 labels:
