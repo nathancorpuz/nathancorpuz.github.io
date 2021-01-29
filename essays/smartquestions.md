@@ -29,7 +29,7 @@ An example of a bad question would be something similar to [this question](https
 
 ## Communication is important
 
-Overall, it is important for both newcomers and veterans to programming to ask "smart" questions. We can see that with efficient communcation, the time saved from asking more and more questions is crucial. As we know, time is of the esscence for any aspiring software developer.
+Overall, it is important for both newcomers and veterans to programming to ask "smart" questions. We can see that with efficient communcation, the time saved from asking more and more questions is crucial. As we know, time is of the esscence for any aspiring software developer. It is important to note that asking questions is never a bad idea, even if you think it's a "stupid" question. Nothing beats that feeling of finally getting your code to work after many attempts in trying to solve it on your own.
 
 
 
