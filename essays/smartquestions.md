@@ -2,7 +2,7 @@
 ---
 layout: essay
 type: essay
-title: Smart Questions is Key
+title: Smart Questions is Key!
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-28
 labels:
