@@ -14,6 +14,7 @@ labels:
 
 ## Looking for Help
 Learning to code and the many different languages available can cause many stress to any newcomers to coding. Often they find themselves searching the internet for the answers. When asking these questions over the internet, it is important to ask "smart" questions as you want to have efficient communcation from both parties. You can read an [essay](http://www.catb.org/esr/faqs/smart-questions.html) written by Eric Raymond who lists effective and efficient methods for clear communication with the open source community. 
+[this question](https://stackoverflow.com/questions/tagged/javascript?sort=Newest&edited=true)
 
 ## Smart Questions
 <img class="ui medium right floated rounded image" src="../images/Screenshot_7.jpg">
