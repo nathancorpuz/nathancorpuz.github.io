@@ -25,5 +25,3 @@ An example of a smart question would be something similar to [this question](htt
 ## Not so smart questions
 <img class="ui medium right floated rounded image" src="../images/Screenshot_7.jpg">
 
-## 
-
