@@ -7,8 +7,6 @@ title: Smart Questions is Key!
 date: 2021-01-28
 labels:
   - StackOverflow
-  - SmartQuestions
-  - BadQuestions
 ---
 
 
