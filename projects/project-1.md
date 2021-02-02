@@ -24,4 +24,4 @@ I created a game where the player goes to a circus and gets to interact with the
 
 I found the process in making the game a fun experience as I had all the freedom to make anything I desired. Making the game ultimately led to me wanting to major in Computer Science. It helped me learn the basic programming concepts such as data types, objects, variables, arrays, loops, etc.
 
-Source code for this project will be made available soon.
+Source code for this project will be made available at a later date.
