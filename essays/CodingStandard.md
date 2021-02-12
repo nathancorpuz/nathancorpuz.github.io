@@ -19,7 +19,3 @@ Using IntelliJ, we are also learning new coding standards.
 ## A different IDE
 
 
-<img class="ui medium right floated rounded image" src="../images/badquestion.jpg">
-
-<img class="ui medium right floated rounded image" src="../images/smartquestion.jpg"> 
-
