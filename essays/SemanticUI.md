@@ -14,7 +14,7 @@ labels:
 
 
 ## Web Design
-<img class="ui medium left floated rounded image" src="https://w3-lab.com/wp-content/uploads/2019/12/Get-the-Most-Fancied-Web-Development-Services-min-scaled.jpg" alt="#">
+<img class="ui medium left floated rounded image" src="https://w3-lab.com/wp-content/uploads/2019/12/Get-the-Most-Fancied-Web-Development-Services-min-scaled.jpg" alt="web design">
 One of the sections of computer science I find the most interesting is web design. 
 Web design is a skill that is starting to become more main stream as internet/technology containues to grow. 
 We even have more people starting to create their own businesses. 
