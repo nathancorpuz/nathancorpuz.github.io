@@ -10,8 +10,8 @@ labels:
   - SemanticUI
 ---
 
-<img class="ui medium right floated rounded image" src="../images/smartquestion.jpg"> 
-<img class="ui medium right floated rounded image" src="../images/badquestion.jpg">
+
+<img class="ui medium right floated rounded image" src="">
 
 ## Web Design
 One of the sections of computer science I find the most interesting is web design. 
@@ -22,6 +22,7 @@ To learn how to web design, we first dive into using HTML and CSS.
 Learning HTML and CSS is similar to learning a new programming language as it takes some time and effort to be comfortable working with it. 
 
 ## HTML and CSS
+<img class="ui medium right floated rounded image" src="https://miro.medium.com/max/792/1*lJ32Bl-lHWmNMUSiSq17gQ.png"> 
 My intitial struggles with learning HTML and CSS was getting familliar with the syntax. 
 As the syntax was quite differnt from any other programming languages I have used so far. 
 Though having previous programming experience definitely helps in learning HTML and CSS faster as some concepts in programming also applies here. 
