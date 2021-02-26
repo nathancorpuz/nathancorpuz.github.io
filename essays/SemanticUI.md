@@ -22,13 +22,24 @@ To learn how to web design, we first dive into using HTML and CSS.
 Learning HTML and CSS is similar to learning a new programming language as it takes some time and effort to be comfortable working with it. 
 
 ## HTML and CSS
-
+My intitial struggles with learning HTML and CSS was getting familliar with the syntax. 
+As the syntax was quite differnt from any other programming languages I have used so far. 
+Though having previous programming experience definitely helps in learning HTML and CSS faster as some concepts in programming also applies here. 
+Some similarities to programming languages would be things like classes and parameters. 
+The main difference in learning HTML and CSS compared to other languages is that HTML and CSS is easier to test code as we can visually see what's going on in the website. 
 
 ## Semantic UI
-
+Semantic UI is a useful tool for when it comes to web design. 
+Semantic UI provides classes that help with making a user interface for the web alot cleaner and simpler. 
+If familliar with other programming languages, it is similar to a library that provides premade functions for everyone to use. 
+A few of the classes from semantic ui I find the most useful so far is the classes ui menu, containers, and items. 
+Just these classes allows you setup a user-friendly menu with ease while keeping a professional look that is a standard for all websites to have if the goal is to attract people's attention. 
 
 ## Why you should learn it!
-
+For this ICS 314 class, they made us dabble with raw HTML and CSS first before learning about semantic ui. 
+Relying on just raw HTML and CSS for web design is what some people may prefer as it allows them to control every aspect of the user interface. 
+However, it would take up more time to develop a professional look compared to using premade classes from semantic ui. 
+As the saying goes, "time is money" and I for one would rather take a few hours to learn the basics of Semantic UI, if it means faster and easier web development in the long run. 
 
 
 
