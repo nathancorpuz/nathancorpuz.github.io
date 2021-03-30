@@ -33,11 +33,11 @@ project criteria, and goals.
 Some mockup pages include:
 
 
-● Landing page
-● User home page
-● Admin home page
-● User profile page.
-● Browse projects by user, criteria, goals, etc.
+- Landing page
+- User home page
+- Admin home page
+- User profile page.
+- Browse projects by user, criteria, goals, etc.
 
 ## Use case ideas
 
@@ -45,21 +45,21 @@ Whether or not the following bullet points list allpages or not, the completed u
 an end-to-end scenario of using the system.
 
 User:
-● New user gets onto website and is directed to completetheir profile
-● They then search relevant projects or create theirown
-● Users then message others via the messaging system
+- New user gets onto website and is directed to completetheir profile
+- They then search relevant projects or create theirown
+- Users then message others via the messaging system
 
 Admin:
-● Admin logs in and can edit site
+- Admin logs in and can edit site
 
 ## Beyond the basics
 
 After implementing the basic functionality, here areideas for more advanced features:
 
-● Messaging between users.
-● Finished project reviews.
-● Networking history between users.
-● Paid projects (for premium users).
-● PSA messages by admins
+- Messaging between users.
+- Finished project reviews.
+- Networking history between users.
+- Paid projects (for premium users).
+- PSA messages by admins
 
 
