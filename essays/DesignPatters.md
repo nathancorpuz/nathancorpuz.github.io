@@ -31,7 +31,7 @@ Another example would be the Observer design pattern.
 Basically, the observer design pattern allows users to create code that only functions if certain events occurs (event handlers). 
 
 ## Personal Experiences using Design Patterns
-<img class="ui medium right floated rounded image" src="https://semantic-ui.com/images/logo.png" alt="meteor-react-template">
+<img class="ui medium right floated rounded image" src="https://raw.githubusercontent.com/ics-software-engineering/meteor-application-template-react/master/doc/landing-page.png">
 Ever since I became a computer science major, I always found myself utilizing design patterns created by the community to help with the development of my coding.
 In ICS 211, one of the assignments (pizza-bakery-application) required us to use a global variable in Java, which were I was introduced to the Singleton Pattern and implemented it into my own code.
 Recently, in ICS 314, given the task of developing a website application from scratch. I was able to use the meteor-react-template as a guide to this assignment as it saves you time and effort from writing the foundation of the website. Personally, reading code is always much simpler than writing code. So using the template as the foudation of my website application, I can easily find and change the necessary components to make the website my own.
