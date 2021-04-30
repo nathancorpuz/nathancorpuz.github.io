@@ -1,48 +1,45 @@
 ---
 layout: essay
 type: essay
-title: UI frameworks works!
+title: Coding with Design Patterns
 # All dates must be YYYY-MM-DD format!
-date: 2021-02-25
+date: 2021-04-29
 labels:
-  - HTML
-  - CSS
-  - SemanticUI
+  - DesignPatterns
+  - Coding
 ---
 
 
 
 
-## Web Design
-<img class="ui medium left floated rounded image" src="https://w3-lab.com/wp-content/uploads/2019/12/Get-the-Most-Fancied-Web-Development-Services-min-scaled.jpg" alt="web design">
-One of the sections of computer science I find the most interesting is web design. 
-Web design is a skill that is starting to become more main stream as internet/technology containues to grow. 
-We even have more people starting to create their own businesses. 
-More businesses means more companies wanting their own websites. 
-To learn how to web design, we first dive into using HTML and CSS. 
-Learning HTML and CSS is similar to learning a new programming language as it takes some time and effort to be comfortable working with it. 
+## Learning about Design Patterns
+<img class="ui medium left floated rounded image" src="https://images-na.ssl-images-amazon.com/images/I/61DirDeK3tL._AC_UL600_SR393,600_.jpg" alt="PatternLanguage">
+Computer Science is one of the subjects that many people with no experience in the field consider it very difficult to get into.
+Luckily, design patterns exists as a way to help newbies become introduced in a user-friendly way.
+First of all, design patterns is basically a template that can be used in many different situations.
+Through trial and error of many different solutions, one solution becomes the general answer to a problem that occurs over and over again for the community. 
+Which eventually becomes the template for new users and veterans to utilize when coding.
+It was first introduced in a book called "A Pattern Language", written by Christopher Alexander in 1977.
+And then later improved upon in a book called "Gang of Four" in 1994.
 
-## HTML and CSS
-<img class="ui medium right floated rounded image" src="https://miro.medium.com/max/792/1*lJ32Bl-lHWmNMUSiSq17gQ.png" alt="html and css logo"> 
-My intitial struggles with learning HTML and CSS was getting familliar with the syntax. 
-As the syntax was quite differnt from any other programming languages I have used so far. 
-Though having previous programming experience definitely helps in learning HTML and CSS faster as some concepts in programming also applies here. 
-Some similarities to programming languages would be things like classes and parameters. 
-The main difference in learning HTML and CSS compared to other languages is that HTML and CSS is easier to test code as we can visually see what's going on in the website. 
+## Examples
+For example, one of the design patterns mention above includes the singleton.
+Singleton acts as a way to provide a global variable in Object Oriented languages that does not support global variables.
+Sometimes in languages such as Java, you'll find yourself needing to implement a global variable to be used in multiple classes. 
+The singleton design pattern allows users to easily implement variables with a global state.
+Another example would be the Observer design pattern.
+Basically, the observer design pattern allows users to create code that only functions if certain events occurs (event handlers). 
 
-## Semantic UI
-<img class="ui medium left floated rounded image" src="https://semantic-ui.com/images/logo.png" alt="semantic logo">
-Semantic UI is a useful tool for when it comes to web design. 
-Semantic UI provides classes that help with making a user interface for the web alot cleaner and simpler. 
-If familliar with other programming languages, it is similar to a library that provides premade functions for everyone to use. 
-A few of the classes from semantic ui I find the most useful so far is the classes ui menu, containers, and items. 
-Just these classes allows you setup a user-friendly menu with ease while keeping a professional look that is a standard for all websites to have if the goal is to attract people's attention. 
+## Personal Experiences using Design Patterns
+<img class="ui medium right floated rounded image" src="https://semantic-ui.com/images/logo.png" alt="meteor-react-template">
+Ever since I became a computer science major, I always found myself utilizing design patterns created by the community to help with the development of my coding.
+In ICS 211, one of the assignments (pizza-bakery-application) required us to use a global variable in Java, which were I was introduced to the Singleton Pattern and implemented it into my own code.
+Recently, in ICS 314, given the task of developing a website application from scratch. I was able to use the meteor-react-template as a guide to this assignment as it saves you time and effort from writing the foundation of the website. Personally, reading code is always much simpler than writing code. So using the template as the foudation of my website application, I can easily find and change the necessary components to make the website my own.
 
-## Why you should learn it!
-For this ICS 314 class, they made us dabble with raw HTML and CSS first before learning about semantic ui. 
-Relying on just raw HTML and CSS for web design is what some people may prefer as it allows them to control every aspect of the user interface. 
-However, it would take up more time to develop a professional look compared to using premade classes from semantic ui. 
-As the saying goes, "time is money" and I for one would rather take a few hours to learn the basics of Semantic UI, if it means faster and easier web development in the long run. 
+## Conclusion
+Overall, design patterns allows newbies to gain the experience of writing code to solutions to a a commonly occuring problem in software design.
+Design patterns is extremely useful in helping users get over the steep learning curve that is Computer Science.
+
 
 
 
