@@ -15,7 +15,7 @@ summary: A Cat Finder website application developed in ICS 314.
 
 <img class="ui huge centered image" src="../images/landing-page.jpg">
 
-For my ICS 314 Final Project, my team and I created a website application that allowed users to track cats on the UH Manoa campus. The main goal of this website application is to help the UH Manoa community have a system that allows them to better take care of the stray cats found on campus. 
+For my ICS 314 Final Project, my team (Mei Luu, Thane Luna, Micah Imakyure) and I created a website application that allowed users to track cats on the UH Manoa campus. The main goal of this website application is to help the UH Manoa community have a system that allows them to better take care of the stray cats found on campus. 
 
 <img class="ui huge centered image" src="../images/catlist.jpg">
 
