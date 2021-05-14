@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: images/Screenshot_5.jpg
-title: ICS 111 Pokemon RPS Game
-permalink: projects/pokemonrps
+title: ICS 314 Neko-Map Website Application
+permalink: projects/nekomap
 # All dates must be YYYY-MM-DD format!
-date: 2019-12-07
+date: 2021-05-12
 labels:
-  - Java
-  - Eclipse
-  - Video Games
-summary: A Pokemon RPS game developed in ICS 111.
+  - Cat Finder
+  - Website Application
+  - Group Project
+summary: A Cat Finder website application developed in ICS 314.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/Screenshot_7.jpg">
