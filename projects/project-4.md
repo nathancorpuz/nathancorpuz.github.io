@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/Screenshot_5.jpg
-title: ICS 314 Neko-Map Website Application
+title: ICS 314 Neko-Map
 permalink: projects/nekomap
 # All dates must be YYYY-MM-DD format!
 date: 2021-05-12
