@@ -52,7 +52,10 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "HTML",
+        "SemanticUI",
+        "Meteor"
       ]
     },
     {
@@ -96,7 +99,7 @@
       "company": "Department of Transportation",
       "position": "Office Assistant",
       "website": "",
-      "startDate": "",
+      "startDate": "2015",
       "endDate": "2015",
       "summary": "Office Assistant for the Department of Transportation",
       "highlights": [
