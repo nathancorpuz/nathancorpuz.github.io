@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/landing-page.jpg
+image: images/landing-page-2.jpg
 title: ICS 314 Neko-Map
 permalink: projects/nekomap
 # All dates must be YYYY-MM-DD format!
