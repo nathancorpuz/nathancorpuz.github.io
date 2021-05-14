@@ -30,4 +30,4 @@ The main thing I learned from this project was the overall process of creating a
 
 Source code for this project can be found [here](https://github.com/neko-map/neko-map-app).
 
-[Neko-Map Website Link (server will soon go down](https://neko-map.xyz/#/)
+[Neko-Map Website Link (server will soon go down)](https://neko-map.xyz/#/)
