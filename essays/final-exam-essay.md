@@ -25,6 +25,7 @@ Instead of creating a website from scratch, we used the meteor react template as
 This allowed our group to have a functional website from the very beginning. 
 From there all we needed to do is make changes following the format of the template. 
 Saving us a lot of time from writing every single line of code.  
+  \
 Design Patterns is also a technique we already practice outside of web development. 
 Design patterns come into play even in real life situations. 
 If you run into a problem that you do not know how to solve, you search it up. 
@@ -40,8 +41,9 @@ Coding standards is like a set of rules programmers follow to keep code as clean
 These can include rules such as having minimum spacing, correct indentations, good comments, etc. 
 The main goal of using coding standards is to make code readable for everyone. 
 Readable code is very helpful especially when others are trying to fix, change, or even mimic the code. 
- A useful tool for practicing coding standards is ESLint which can automatically identify the any formatting errors you have in your code. 
+A useful tool for practicing coding standards is ESLint which can automatically identify the any formatting errors you have in your code. 
 The more you see the same warnings/errors, writing good code will eventually become second nature.  
+  \
 Outside of web development, you will see coding standards pretty much in any coding languages as the theory of coding standards is universal. 
 You will see similar or identical code formatting in pretty much every piece of code you read. 
 Only exception is code written by new programmers who are also still learning about coding standards. 
