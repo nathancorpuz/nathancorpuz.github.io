@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Mastering the Craft
 # All dates must be YYYY-MM-DD format!
-date: 2021-05-14
+date: 2021-05-13
 labels:
   - DesignPatterns
   - Coding Standards
