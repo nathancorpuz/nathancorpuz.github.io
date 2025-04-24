@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/ww1.png
-title: Working Wands
+title: Working Wands Game Dev
 permalink: projects/workingwands
 # All dates must be YYYY-MM-DD format!
 date: 2025-03-11

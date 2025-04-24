@@ -3,10 +3,10 @@
     "name": "Nathan Corpuz",
     "label": "Student",
     "picture": "https://nathancorpuz.github.io/images/dontlookatme.jpg",
-    "email": "nathandc@hawaii.edu",
+    "email": "corpuz.nathan@yahoo.com",
     "phone": "",
     "website": "https://nathancorpuz.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2022.",
+    "summary": "College graduate with a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii.",
     "location": {
       "address": "",
       "postalCode": "96793",
@@ -50,13 +50,11 @@
       "level": "",
       "keywords": [
         "C",
-        "C++",
-        "C#",
-        "Java",
+        "GDScript",
         "Javascript",
         "HTML",
-        "SemanticUI",
-        "Meteor"
+        "SQL",
+        "React.js"
       ]
     },
     {
@@ -64,26 +62,40 @@
       "level": "",
       "keywords": [
         "Windows",
-        "MacOS",
-        "Git/GitHub"
+        "Linux",
+		"MacOS",
+        "Git/GitHub",
+		"Microsoft Suite"
       ]
-    }
+    },
+	{
+	  "name": "Soft Skills",
+      "level": "",
+      "keywords": [
+        "Troubleshooting",
+        "Problem Solving",
+        "Operating Systems",
+		"Interpersonal Communication"
+      ]
+	}
+	
+	
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2022)",
+      "institution": "University of Hawaii",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2019",
-      "endDate": "Present",
-      "gpa": "",
+      "startDate": "Aug 2019",
+      "endDate": "Dec 2022",
+      "gpa": "3.58",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Maui College",
+      "company": "University of Hawaii Maui College",
       "position": "Math Tutor",
       "website": "",
       "startDate": "2016",
@@ -91,20 +103,9 @@
       "summary": "Math tutor for the UHMC math lab",
       "highlights": [
         "Assist students with math classes such as Algebra, Statistics, Calculus, etc.",
-        "Attend math classes to help as an teaching assistant", 
-        "Monitor students during proctored quizes and exams at the Math Lab",
+        "Attend lectures as teaching assistant", 
+        "Monitor students during proctored quizes and exams",
         "Answering phone calls for scheduled appointments or lab hours"
-      ]
-    }, 
-    {
-      "company": "Department of Transportation",
-      "position": "Office Assistant",
-      "website": "",
-      "startDate": "2015",
-      "endDate": "2015",
-      "summary": "Office Assistant for the Department of Transportation",
-      "highlights": [
-        "Photocopied numerous documents and filed them in an organized manner."
       ]
     }
   ],
