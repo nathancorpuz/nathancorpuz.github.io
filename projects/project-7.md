@@ -17,7 +17,7 @@ summary: A shop simulation game that I am currently solo developing as a persona
 
 For the past year, I have been developing a shop simulation / management game on my own. In this game, players will manage their shops in an RPG setting with rogue-like features. 
 The goal for the player is to create and sell weapons to customers before their patience run out. The player would then use money they make to improve the size and efficiency of their store as big as they can before they run out of lives.
-The main inspiration for this game came from another video game called "Plate Up".
+The main inspiration for this game came from another video game called "Plate Up". A youtube demo of the game can be found [here](https://www.youtube.com/watch?v=qNZutxtstAk).
 
 
 <img class="ui huge centered image" src="../images/ww2.png">
@@ -37,5 +37,5 @@ For the art assets, I utilized a software called Aseprite to help create pixel a
 
 For sound, I am using both FMOD and beepbox to help manage sound effects and music that I am using inside my game.
 
-[Youtube demo](https://www.youtube.com/watch?v=qNZutxtstAk).
+
 
