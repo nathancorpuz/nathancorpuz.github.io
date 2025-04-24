@@ -69,11 +69,12 @@
       ]
     },
 	{
-	  "name": "Soft Skills",
+	  "name": "",
       "level": "",
       "keywords": [
         "Troubleshooting",
         "Problem Solving",
+		"Networking",
         "Operating Systems",
 		"Interpersonal Communication"
       ]
