@@ -1,40 +1,33 @@
 ---
 layout: project
 type: project
-image: images/ww1.png
-title: Game Dev - Working Wands 
-permalink: projects/workingwands
+image: images/2-3.png
+title: Game Dev - Bomberman Clone
+permalink: projects/bomberman-clone
 # All dates must be YYYY-MM-DD format!
-date: 2024-06-11
+date: 2024-08-01
 labels:
   - Indie Game Development
   - GDScript
   - Solo Project
-summary: A shop simulation game that I am currently solo developing as a personal project (currently still in development).
+summary: A clone of Bomberman made in Godot.
 ---
 
-<img class="ui huge centered image" src="../images/ww1.png">
+<img class="ui huge centered image" src="../images/2-3.png">
+Before I begin developing my dream game, I wanted to practice using godot for one more project. Since I plan on my dream game to have top-down movement, 
+I want this second project to at least contain a player controller script that moves the character as if it was in a top-down world so that I may reuse the script in the future.
+Therefore, I settled on recreating a level from the bomberman series as it also contains top-down movement.
 
-For the past year, I have been developing a shop simulation / management game on my own. In this game, players will manage their shops in an RPG setting with rogue-like features. 
-The goal for the player is to create and sell weapons to customers before their patience run out. The player would then use money they make to improve the size and efficiency of their store as big as they can before they run out of lives.
-The main inspiration for this game came from another video game called "Plate Up".
+<img class="ui huge centered image" src="../images/2-2.png">
 
+In my previous project, the player script could move the character left/right, jump up, and fall down. This is due to player node having gravity enabled which allowed the character to keep falling until colliding with a collision shape attached to the tilemap.
+However, by disabling the gravity and jump action, the player script can now look as if the character is moving up and down from a top-down view.
 
-<img class="ui huge centered image" src="../images/ww2.png">
+<img class="ui huge centered image" src="../images/2-1.png">
 
-The game is being created using the Godot game engine software that uses GDScript as it's main programming language. 
-GDScript is a built in programming language within Godot that mostly resembles Python.
-
-
-<img class="ui huge centered image" src="../images/ww3.png">
-
-In previous game dev projects, I used free art and sound assets found on itch.io. However, this time everything including code, art, sfx, music, etc. has been developed by me alone.
-For the art assets, I utilized a software called Aseprite to help create pixel art for my game. Aseprite contains helpful features that allow me to control animations and the current states of players / objects within the game.
+Lastly, I learned how to create instances of a scene node (rocks) node to easily duplicate rocks around the map that have the same properties as the original. 
 
 
-<img class="ui huge centered image" src="../images/ww4.png">
 
-For sound effects, I am using both FMOD and beepbox to help manage sound effects and music that I am using inside my game.
 
-[Youtube demo](https://www.youtube.com/watch?v=qNZutxtstAk).
 
