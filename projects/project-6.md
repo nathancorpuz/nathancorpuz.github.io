@@ -5,7 +5,7 @@ image: images/ww1.png
 title: Game Dev - Working Wands 
 permalink: projects/workingwands
 # All dates must be YYYY-MM-DD format!
-date: 2025-03-11
+date: 2024-06-11
 labels:
   - Indie Game Development
   - GDScript

@@ -1,40 +1,36 @@
 ---
 layout: project
 type: project
-image: images/ww1.png
-title: Game Dev - Working Wands 
-permalink: projects/workingwands
+image: images/1-4.png
+title: Game Dev - Simple Platformer
+permalink: projects/first-game
 # All dates must be YYYY-MM-DD format!
-date: 2025-03-11
+date: 2024-04-11
 labels:
   - Indie Game Development
   - GDScript
   - Solo Project
-summary: A shop simulation game that I am currently solo developing as a personal project (currently still in development).
+summary: A platformer game I made using the Godot game engine.
 ---
 
-<img class="ui huge centered image" src="../images/ww1.png">
+<img class="ui huge centered image" src="../images/1-4.png">
 
-For the past year, I have been developing a shop simulation / management game on my own. In this game, players will manage their shops in an RPG setting with rogue-like features. 
-The goal for the player is to create and sell weapons to customers before their patience run out. The player would then use money they make to improve the size and efficiency of their store as big as they can before they run out of lives.
-The main inspiration for this game came from another video game called "Plate Up".
+One of my goals is to one day release a fully fleshed out game on Steam (game platform). For the first step towards that goal, 
+I have developed a simple platformer game in order to learn the basics of using the Godot game engine. 
 
+<img class="ui huge centered image" src="../images/1-2.png">
 
-<img class="ui huge centered image" src="../images/ww2.png">
+Within the Godot game engine, it has a built in programming language called GDScript. 
+GDScript is considered to be a simple and beginner friendly programming language (resembles closest to python).
 
-The game is being created using the Godot game engine software that uses GDScript as it's main programming language. 
-GDScript is a built in programming language within Godot that mostly resembles Python.
+<img class="ui huge centered image" src="../images/1-1.png">
 
-
-<img class="ui huge centered image" src="../images/ww3.png">
-
-In previous game dev projects, I used free art and sound assets found on itch.io. However, this time everything including code, art, sfx, music, etc. has been developed by me alone.
-For the art assets, I utilized a software called Aseprite to help create pixel art for my game. Aseprite contains helpful features that allow me to control animations and the current states of players / objects within the game.
+Within this small game, my main takeaways that I learned was how to make a Sprite2D node move in any direction, 
+utilize tilemaps to create a world for the player, 
+and implement collision shapes that performs different actions when colliding with different objects.
 
 
-<img class="ui huge centered image" src="../images/ww4.png">
+<img class="ui huge centered image" src="../images/1-3.png">
 
-For sound effects, I am using both FMOD and beepbox to help manage sound effects and music that I am using inside my game.
-
-[Youtube demo](https://www.youtube.com/watch?v=qNZutxtstAk).
+Lastly, instead of developing my own art and sound assets, I obtained free resources from itch.io to help save time and allow me to focus solely on the coding side of the project. 
 

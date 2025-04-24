@@ -33,8 +33,9 @@ For the art assets, I utilized a software called Aseprite to help create pixel a
 
 
 <img class="ui huge centered image" src="../images/ww4.png">
+<img class="ui huge centered image" src="../images/ww5.png">
 
-For sound effects, I am using both FMOD and beepbox to help manage sound effects and music that I am using inside my game.
+For sound, I am using both FMOD and beepbox to help manage sound effects and music that I am using inside my game.
 
 [Youtube demo](https://www.youtube.com/watch?v=qNZutxtstAk).
 
