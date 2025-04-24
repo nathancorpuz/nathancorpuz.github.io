@@ -1,37 +1,36 @@
 ---
 layout: project
 type: project
-image: images/landing-page-2.jpg
-title: ICS 314 Neko-Map
-permalink: projects/nekomap
+image: images/ww1.png
+title: Working Wands
+permalink: projects/workingwands
 # All dates must be YYYY-MM-DD format!
-date: 2024-03-11
+date: 2025-03-11
 labels:
   - Indie Game Development
   - GDScript
   - Solo Project
-summary: A Cat Finder website application developed in ICS 314.
+summary: A shop simulation game that I am currently solo developing as a personal project (currently still in development).
 ---
 
-<img class="ui huge centered image" src="../images/landing-page.jpg">
+<img class="ui huge centered image" src="../images/ww1.png">
 
-For my ICS 314 Final Project, my team (Michelle Luu, Thane Luna, Micah Imakyure) and I created a website application that allowed users to track cats on the UH Manoa campus. The main goal of this website application is to help the UH Manoa community have a system that allows them to better take care of the stray cats found on campus. 
+For the past year, I have been developing a shop simulation / management game on my own. In this game, players will manage their shops in an RPG setting. 
+The goal for the player is to create weapons / potions for customers who enter their shops.
+The main inspiration for this game is from a different game called "Plate Up".
 
-<img class="ui huge centered image" src="../images/catlist.jpg">
+<img class="ui huge centered image" src="../images/ww2.png">
 
-The main feature of the website is to be able to map the cats on campus using a form. Users will fill out information that is visible to everyone so that the general location of the cats is known. Making it easier for the community to find and feed the cats.
-<img class="ui huge centered image" src="../images/register-a-cat.jpg">
+The game is being created using the Godot game engine software that uses GDScript as it's main programming language. 
+GDScript is a built in programming language within Godot that mostly resembles Python.
 
-Another feature of the website is a volunteer form for users who want to volunteer to feed the cats. When users fill out the volunteer form, the admins of the site will be able access their contact information and provide them more details on which cats to help feed.
+<img class="ui huge centered image" src="../images/ww3.png">
 
-<img class="ui huge centered image" src="../images/volunteer.jpg">
+I utilized another software called Aseprite to help create pixel art for my game. Aseprite allows me to control animations and the current states of players / objects with the game.
 
-My main contributions to the project was creating the landing page and the volunteer admin page. I also contributed to helping fix bugs and issues to the pages assigned to my group members when needed.
+<img class="ui huge centered image" src="../images/ww4.png">
 
-The main thing I learned from this project was the overall process of creating a website. From obtaining the url address, using digital ocean to host the server of the website, to connecting the database to the website. I was always interested on the process of making a website and now glad to have the experience in making one under my belt.
+Lastly, I am using FMOD to help manage sound effects and music that I am using for my game.
 
-Source code for this project can be found [here](https://github.com/neko-map/neko-map-app).
-
-[Neko-Map Website Link (server will soon go down)](https://neko-map.xyz/#/)
-
+A youtube demo of my game can be found [here](https://www.youtube.com/watch?v=qNZutxtstAk).
 
